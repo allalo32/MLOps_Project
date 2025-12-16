@@ -73,7 +73,7 @@ MLOps_TeamProject/
 ### Installation
 1.  **Clone the repository**
     ```bash
-    git clone <repo_url>
+    git clone https://github.com/allalo32/MLOps_Project.git
     cd MLOps_TeamProject
     ```
 
@@ -135,7 +135,7 @@ Metrics evaluated on the held-out **Test Set** (2016-2018).
 | Model | Test RMSE | Test MAE | R² | Status |
 |-------|-----------|----------|----|--------|
 | **GBM (LightGBM)** | **496.20** | **314.23** | **0.94** | 🏆 Champion |
-| Random Forest | 633.00 | 464.40 | 0.90 | Production |
+| Random Forest | 633.00 | 464.40 | 0.90 | Staging |
 | Ridge Regression | 1590.61 | 1351.18 | 0.35 | Baseline |
 
 ### Champion Model Details
@@ -191,3 +191,5 @@ Using **Evidently AI**, we monitored the stability of our model.
 
 ## 👥 Team Members
 *   **Lokesh Kumar**
+    **Nikitha**
+    **Mounika Subramanian**
