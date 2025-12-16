@@ -1,0 +1,5 @@
+# Mark generated files to be excluded from GitHub language stats
+data/*.html linguist-generated=true
+data/*.csv linguist-generated=true
+plots/**/*.png linguist-generated=true
+*.md linguist-documentation
