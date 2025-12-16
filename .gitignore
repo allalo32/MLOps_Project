@@ -1,0 +1,14 @@
+# Add .env to gitignore to protect credentials
+.env
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+mlruns/
+*.log
+.DS_Store
+screenshots/*.png
+screenshots/*.jpg
+data/automl_leaderboard.csv
+data/automl_model_types.csv

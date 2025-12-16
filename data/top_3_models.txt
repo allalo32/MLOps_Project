@@ -1,0 +1,17 @@
+TOP 3 MODEL TYPES FOR MANUAL IMPLEMENTATION
+==================================================
+
+1. GBM (Gradient Boosting Machine)
+   RMSE: 275.24
+   MAE: 163.69
+   Rank: #1
+
+2. RandomForest
+   RMSE: 361.22
+   MAE: 203.77
+   Rank: #10
+
+3. Ridge Regression (Added for comparison)
+   RMSE: TBD (will be determined during manual training)
+   MAE: TBD
+   Rank: N/A (baseline linear model)
